@@ -22,6 +22,7 @@
 - CSS
 - JavaScript
 - ReactJs
+- NextJs
 - Java
 - firebase
 - sass
