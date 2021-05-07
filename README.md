@@ -36,7 +36,7 @@
 - postman
 - git
 
-#connect with me
+# connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/surya-shakti-8b9528154/)
 - [Instagram](https://www.instagram.com/surya.shakti/)
