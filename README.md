@@ -23,7 +23,6 @@
 - JavaScript
 - ReactJs
 - NextJs
-- Java
 - firebase
 - sass
 - material-ui
