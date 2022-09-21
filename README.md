@@ -26,6 +26,7 @@
 - firebase
 - sass
 - material-ui
+- Tailwind CSS
 
 
 # Tools i use
