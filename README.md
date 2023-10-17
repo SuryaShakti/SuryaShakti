@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya 👋
 
-# I'm a student and frontend web developer 
+# Creating elegant web experiences as a Frontend Developer & UI/UX Designer.
 
 - 🔭 I’m currently working on projects in ReactJs
 - 🌱 I’m currently learning NodeJs and MongoDB
